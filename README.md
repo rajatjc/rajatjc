@@ -7,7 +7,7 @@ A software engineer at IBM building microservices and distributed systems, with 
 
 ## What I Do
 
-- **Software Engineer** at IBM (InfoHub platform, microservices development)
+- **Software Engineer** at IBM (CoreGuuT platform, microservices development)
 - **Microservices Development** with Java Spring Boot and Kafka
 - **DevOps & Containerization** using Docker, Kubernetes, and Jenkins
 - **Database Design** with Cassandra, MySQL, and MongoDB
