@@ -100,7 +100,7 @@ Fetching latest activity... (auto-updates every 6 hours)
 
 ## Fun Fact
 
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
+> "I had one problem. I solved it with AI coding tools. Now I have two problems. I solved those with more AI coding tools. Now I have 4 problems. …guess what happens next" - Rajat Sharma
 
 ---
 
