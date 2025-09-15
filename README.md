@@ -60,7 +60,19 @@ A software engineer at IBM building microservices and distributed systems, with 
 ## Recent Activity
 
 <!--START:recent-->
-Fetching latest activity... (auto-updates every 6 hours)
+### 📁 Recent Repositories
+- **[flask](https://github.com/rajatjc/flask)** — The Python micro framework for building web applications.
+  - Last updated: 2025-09-15
+- **[fastapi](https://github.com/rajatjc/fastapi)** — FastAPI framework, high performance, easy to learn, fast to ...
+  - Last updated: 2025-09-15
+- **[kafka](https://github.com/rajatjc/kafka)** — Mirror of Apache Kafka
+  - Last updated: 2025-09-15
+
+### 🔥 Recent Activity
+- 👀 **Starred** [charlax/professional-programming](https://github.com/charlax/professional-programming) — 2025-09-07
+
+---
+*Last updated: 2025-09-15 06:16 UTC*
 <!--END:recent-->
 
 ## Featured Projects
