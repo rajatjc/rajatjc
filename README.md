@@ -61,15 +61,15 @@ A software engineer at IBM building microservices and distributed systems, with 
 
 <!--START:recent-->
 ### 📁 Recent Repositories
+- **[lsm-kv](https://github.com/rajatjc/lsm-kv)** — LSM-tree key-value store in Go: WAL, SSTables, Bloom filters...
+  - Last updated: 2026-10-17
 - **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
   - Last updated: 2026-10-17
 - **[rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io)** — My Portfolio Website
   - Last updated: 2026-04-05
-- **[flask](https://github.com/rajatjc/flask)** — The Python micro framework for building web applications.
-  - Last updated: 2025-09-15
 
 ---
-*Last updated: 2026-10-17 09:51 UTC*
+*Last updated: 2026-10-17 14:34 UTC*
 <!--END:recent-->
 
 ## Featured Projects
