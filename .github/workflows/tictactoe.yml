@@ -16,7 +16,7 @@ jobs:
       ISSUE_TITLE: ${{ github.event.issue.title }}
       ISSUE_USER: ${{ github.event.issue.user.login }}
       ISSUE_NUMBER: ${{ github.event.issue.number }}
-      COMMENT_FILE: ${{ runner.temp }}/comment.md
+      COMMENT_FILE: /tmp/ttt-comment.md # outside the repo; the runner context isn't available at job level
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v4
