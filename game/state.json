@@ -1,0 +1,24 @@
+{
+  "game": 1,
+  "board": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "turn": "X",
+  "last_player": null,
+  "last_result": null,
+  "moves": [],
+  "players": {},
+  "totals": {
+    "X": 0,
+    "O": 0,
+    "draw": 0
+  }
+}
