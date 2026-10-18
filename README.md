@@ -11,6 +11,16 @@
   <img src="https://komarev.com/ghpvc/?username=rajatjc&label=profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views">
 </p>
 
+<p align="center">
+  <a href="#projects"><b>Projects</b></a> ·
+  <a href="#about"><b>About</b></a> ·
+  <a href="#experience"><b>Experience</b></a> ·
+  <a href="#skills"><b>Skills</b></a> ·
+  <a href="#stats"><b>Stats</b></a>
+</p>
+
+<a id="projects"></a>
+
 ## 🔭 Featured projects
 
 <table>
@@ -46,29 +56,75 @@ watch it flush and compact.
 </tr>
 </table>
 
+<details>
+<summary><b>🍁 How Loonie Ledger works</b> (click to expand)</summary>
+<br>
+
+```mermaid
+flowchart TB
+  U([Customer]) --> G["Gateway · Node.js + React"]
+  G --> P["Payments · Java + Spring Boot<br/>holds the funds"]
+  P --> DB[("Postgres<br/>double-entry ledger")]
+  P -- "TransferRequested (via outbox)" --> T[("Redis stream: transfers")]
+  T --> F["Fraud · Python<br/>risk score + reasons"]
+  T --> C["Compliance · Node.js<br/>$10K + 24h checks, audit log"]
+  F -- "PASS / HOLD" --> D[("Redis streams: decisions")]
+  C -- "CLEAR / REVIEW" --> D
+  D -- "settles only if both pass" --> P
+```
+
+- **No money moves unchecked.** Payments settles a transfer only after both the fraud and the compliance verdicts arrive. If either service is down, the transfer waits with the funds held.
+- **No lost or doubled events.** A transactional outbox, consumer groups that acknowledge only after the work is done, and handlers that ignore repeats.
+- **Tamper-evident audit log.** Each entry stores the hash of the one before it, so editing history is detectable.
+- **Ops console.** On Kubernetes, the website includes a real terminal (`kubectl`, `redis-cli`, `psql`) limited by RBAC to its own namespace.
+
+</details>
+
+<details>
+<summary><b>🗄️ How lsm-kv works</b> (click to expand)</summary>
+<br>
+
+```mermaid
+flowchart LR
+  W([PUT / DELETE]) --> WAL["Write-ahead log<br/>CRC-checked"] --> M["Memtable<br/>sorted, in memory"]
+  M -- "full: flush" --> S["SSTables<br/>sparse index + Bloom filter"]
+  S -- "4 tables: compact" --> K["K-way merge<br/>drops tombstones"] --> S
+  R([GET]) --> M
+  M -. "not found" .-> S
+```
+
+- **Crash-safe writes.** Every write hits a CRC-checked write-ahead log first, and replay stops cleanly at a half-written record.
+- **Fast misses.** Each SSTable has a sparse index and a Bloom filter, so looking up a missing key is about **17x** cheaper than a hit.
+- **One merge for everything.** Range scans and compaction share a heap-based k-way merge where the newest version of each key wins.
+- **Measured with JMH.** About **3 µs** per write and **2.4 µs** per read.
+
+</details>
+
 Both have interactive playgrounds on my portfolio, **[rajatjc.github.io](https://rajatjc.github.io)**.
 
-## 🎮 Play tic-tac-toe with me
+<a id="about"></a>
 
-Anyone on GitHub can play: pick a numbered square, and a GitHub Action makes your move on the board below.
+## 👋 About me
 
-<!--START:ttt-->
-**Game #1** · next move: ⭕ · click a numbered square, then press **Create** on the issue that opens.
+<details open>
+<summary><b>What I'm doing now</b></summary>
+<br>
 
-<table><tr><td align="center" width="64" height="64"><a href="https://github.com/rajatjc/rajatjc/issues/new?title=ttt%7Cmove%7C1%7C1&body=Just%20press%20%2A%2ACreate%2A%2A.%20The%20board%20in%20the%20README%20updates%20within%20a%20minute%20or%20two.">1️⃣</a></td><td align="center" width="64" height="64"><a href="https://github.com/rajatjc/rajatjc/issues/new?title=ttt%7Cmove%7C2%7C1&body=Just%20press%20%2A%2ACreate%2A%2A.%20The%20board%20in%20the%20README%20updates%20within%20a%20minute%20or%20two.">2️⃣</a></td><td align="center" width="64" height="64"><a href="https://github.com/rajatjc/rajatjc/issues/new?title=ttt%7Cmove%7C3%7C1&body=Just%20press%20%2A%2ACreate%2A%2A.%20The%20board%20in%20the%20README%20updates%20within%20a%20minute%20or%20two.">3️⃣</a></td></tr><tr><td align="center" width="64" height="64"><a href="https://github.com/rajatjc/rajatjc/issues/new?title=ttt%7Cmove%7C4%7C1&body=Just%20press%20%2A%2ACreate%2A%2A.%20The%20board%20in%20the%20README%20updates%20within%20a%20minute%20or%20two.">4️⃣</a></td><td align="center" width="64" height="64">❌</td><td align="center" width="64" height="64"><a href="https://github.com/rajatjc/rajatjc/issues/new?title=ttt%7Cmove%7C6%7C1&body=Just%20press%20%2A%2ACreate%2A%2A.%20The%20board%20in%20the%20README%20updates%20within%20a%20minute%20or%20two.">6️⃣</a></td></tr><tr><td align="center" width="64" height="64"><a href="https://github.com/rajatjc/rajatjc/issues/new?title=ttt%7Cmove%7C7%7C1&body=Just%20press%20%2A%2ACreate%2A%2A.%20The%20board%20in%20the%20README%20updates%20within%20a%20minute%20or%20two.">7️⃣</a></td><td align="center" width="64" height="64"><a href="https://github.com/rajatjc/rajatjc/issues/new?title=ttt%7Cmove%7C8%7C1&body=Just%20press%20%2A%2ACreate%2A%2A.%20The%20board%20in%20the%20README%20updates%20within%20a%20minute%20or%20two.">8️⃣</a></td><td align="center" width="64" height="64"><a href="https://github.com/rajatjc/rajatjc/issues/new?title=ttt%7Cmove%7C9%7C1&body=Just%20press%20%2A%2ACreate%2A%2A.%20The%20board%20in%20the%20README%20updates%20within%20a%20minute%20or%20two.">9️⃣</a></td></tr></table>
+- At **IBM**, building Maximo Manage as a multi-tenant SaaS: tenant provisioning and migration, an SRE dashboard, and GitOps deployments across AWS and IBM Cloud.
+- On the side, building systems from first principles: first a storage engine, then a bank, to see what happens when its services fail.
 
-All-time: ❌ 0 wins · ⭕ 0 wins · 0 draws
+</details>
 
-**Recent moves**
+<details>
+<summary><b>Ask me about</b></summary>
+<br>
 
-- ❌ on square 5 by [@rajatjc](https://github.com/rajatjc) (game #1, 2026-10-18 23:42 UTC)
+Event-driven systems with Kafka and Redis Streams · Cassandra data modeling · Kubernetes, OpenShift and GitOps with Argo CD ·
+Spring Boot microservices · how storage engines work under the hood
 
-**Top players**
+</details>
 
-| Player | Moves |
-| --- | --: |
-| [@rajatjc](https://github.com/rajatjc) | 1 |
-<!--END:ttt-->
+<a id="experience"></a>
 
 ## 💼 Experience
 
@@ -120,6 +176,8 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 </details>
 
+<a id="skills"></a>
+
 ## 🛠️ What I work with
 
 **Languages**
@@ -154,6 +212,8 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat" alt="AWS">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana">
+
+<a id="stats"></a>
 
 ## 📊 GitHub stats
 
