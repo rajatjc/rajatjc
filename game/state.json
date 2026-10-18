@@ -5,17 +5,27 @@
     "",
     "",
     "",
-    "",
+    "X",
     "",
     "",
     "",
     ""
   ],
-  "turn": "X",
-  "last_player": null,
+  "turn": "O",
+  "last_player": "rajatjc",
   "last_result": null,
-  "moves": [],
-  "players": {},
+  "moves": [
+    {
+      "user": "rajatjc",
+      "mark": "X",
+      "square": 5,
+      "game": 1,
+      "at": "2026-10-18 23:42 UTC"
+    }
+  ],
+  "players": {
+    "rajatjc": 1
+  },
   "totals": {
     "X": 0,
     "O": 0,
