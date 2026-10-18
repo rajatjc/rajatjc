@@ -63,17 +63,17 @@ A software engineer at IBM building microservices and distributed systems, with 
 ### 📁 Recent Repositories
 - **[lsm-kv](https://github.com/rajatjc/lsm-kv)** — LSM-tree key-value store in Java: WAL, SSTables, Bloom filte...
   - Last updated: 2026-10-18
+- **[loonie-ledger](https://github.com/rajatjc/loonie-ledger)** — A demo Canadian neobank: Java, Python and Node.js services c...
+  - Last updated: 2026-10-18
 - **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
   - Last updated: 2026-10-18
-- **[rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io)** — My Portfolio Website
-  - Last updated: 2026-04-05
 
 ### 🔥 Recent Activity
 - 🚀 **Pushed** to [rajatjc/lsm-kv](https://github.com/rajatjc/lsm-kv) — 2026-10-17
 - ✨ **Created** [rajatjc/lsm-kv](https://github.com/rajatjc/lsm-kv) — 2026-10-17
 
 ---
-*Last updated: 2026-10-18 15:02 UTC*
+*Last updated: 2026-10-18 19:48 UTC*
 <!--END:recent-->
 
 ## Featured Projects
