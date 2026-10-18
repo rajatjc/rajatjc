@@ -61,9 +61,9 @@ A software engineer at IBM building microservices and distributed systems, with 
 
 <!--START:recent-->
 ### 📁 Recent Repositories
-- **[lsm-kv](https://github.com/rajatjc/lsm-kv)** — LSM-tree key-value store in Java: WAL, SSTables, Bloom filte...
-  - Last updated: 2026-10-17
 - **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
+  - Last updated: 2026-10-18
+- **[lsm-kv](https://github.com/rajatjc/lsm-kv)** — LSM-tree key-value store in Java: WAL, SSTables, Bloom filte...
   - Last updated: 2026-10-17
 - **[rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io)** — My Portfolio Website
   - Last updated: 2026-04-05
@@ -72,7 +72,7 @@ A software engineer at IBM building microservices and distributed systems, with 
 - ✨ **Created** [rajatjc/lsm-kv](https://github.com/rajatjc/lsm-kv) — 2026-10-17
 
 ---
-*Last updated: 2026-10-18 01:57 UTC*
+*Last updated: 2026-10-18 10:02 UTC*
 <!--END:recent-->
 
 ## Featured Projects
