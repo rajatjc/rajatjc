@@ -68,8 +68,11 @@ A software engineer at IBM building microservices and distributed systems, with 
 - **[rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io)** — My Portfolio Website
   - Last updated: 2026-04-05
 
+### 🔥 Recent Activity
+- ✨ **Created** [rajatjc/lsm-kv](https://github.com/rajatjc/lsm-kv) — 2026-10-17
+
 ---
-*Last updated: 2026-10-17 19:47 UTC*
+*Last updated: 2026-10-18 01:57 UTC*
 <!--END:recent-->
 
 ## Featured Projects
