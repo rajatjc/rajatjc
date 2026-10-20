@@ -111,7 +111,6 @@ Both have interactive playgrounds on my portfolio, **[rajatjc.github.io](https:/
 <br>
 
 - At **IBM**, building Maximo Manage as a multi-tenant SaaS: tenant provisioning and migration, an SRE dashboard, and GitOps deployments across AWS and IBM Cloud.
-- On the side, building systems from first principles: first a storage engine, then a bank, to see what happens when its services fail.
 
 </details>
 
