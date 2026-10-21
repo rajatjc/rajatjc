@@ -244,20 +244,20 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
-- **[loonie-ledger](https://github.com/rajatjc/loonie-ledger)** — A demo Canadian neobank: Java, Python and Node.js services c...
-  - Last updated: 2026-10-20
-- **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
-  - Last updated: 2026-10-20
 - **[rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io)** — My Portfolio Website
+  - Last updated: 2026-10-21
+- **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
+  - Last updated: 2026-10-21
+- **[loonie-ledger](https://github.com/rajatjc/loonie-ledger)** — A demo Canadian neobank: Java, Python and Node.js services c...
   - Last updated: 2026-10-20
 
 ### 🔥 Recent Activity
+- 🚀 **Pushed** to [rajatjc/rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io) — 2026-10-21
+- 🚀 **Pushed** to [rajatjc/rajatjc](https://github.com/rajatjc/rajatjc) — 2026-10-18
 - 🚀 **Pushed** to [rajatjc/rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io) — 2026-10-18
-- ✨ **Created** [rajatjc/loonie-ledger](https://github.com/rajatjc/loonie-ledger) — 2026-10-18
-- 🚀 **Pushed** to [rajatjc/rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io) — 2026-10-20
 
 ---
-*Last updated: 2026-10-21 02:23 UTC*
+*Last updated: 2026-10-21 10:46 UTC*
 <!--END:recent-->
 
 </details>
