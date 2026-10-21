@@ -244,20 +244,20 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
-- **[rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io)** — My Portfolio Website
+- **[CareerLinkup](https://github.com/rajatjc/CareerLinkup)** — CareerLinkup: Connecting job seekers and employers for strea...
   - Last updated: 2026-10-21
-- **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
+- **[GraphColoring](https://github.com/rajatjc/GraphColoring)** — GraphColoring website with CBIP and FirstFit algorithm
   - Last updated: 2026-10-21
-- **[loonie-ledger](https://github.com/rajatjc/loonie-ledger)** — A demo Canadian neobank: Java, Python and Node.js services c...
-  - Last updated: 2026-10-20
+- **[DreamShops](https://github.com/rajatjc/DreamShops)** — None
+  - Last updated: 2026-10-21
 
 ### 🔥 Recent Activity
+- 🚀 **Pushed** to [rajatjc/rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io) — 2026-10-20
 - 🚀 **Pushed** to [rajatjc/rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io) — 2026-10-21
 - 🚀 **Pushed** to [rajatjc/rajatjc](https://github.com/rajatjc/rajatjc) — 2026-10-18
-- 🚀 **Pushed** to [rajatjc/rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io) — 2026-10-18
 
 ---
-*Last updated: 2026-10-21 10:46 UTC*
+*Last updated: 2026-10-21 16:14 UTC*
 <!--END:recent-->
 
 </details>
