@@ -244,20 +244,20 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
-- **[GraphColoring](https://github.com/rajatjc/GraphColoring)** — GraphColoring website with CBIP and FirstFit algorithm
+- **[kaleido-tv](https://github.com/rajatjc/kaleido-tv)** — Free live TV, beautifully organised: legitimate free channel...
+  - Last updated: 2026-10-23
+- **[DreamShops](https://github.com/rajatjc/DreamShops)** — None
   - Last updated: 2026-10-22
-- **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
-  - Last updated: 2026-10-22
-- **[CareerLinkup](https://github.com/rajatjc/CareerLinkup)** — CareerLinkup: Connecting job seekers and employers for strea...
+- **[loonie-ledger](https://github.com/rajatjc/loonie-ledger)** — A demo Canadian neobank: Java, Python and Node.js services c...
   - Last updated: 2026-10-22
 
 ### 🔥 Recent Activity
-- 🚀 **Pushed** to [rajatjc/GraphColoring](https://github.com/rajatjc/GraphColoring) — 2026-10-21
-- 🚀 **Pushed** to [rajatjc/DreamShops](https://github.com/rajatjc/DreamShops) — 2026-10-21
-- 🚀 **Pushed** to [rajatjc/rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io) — 2026-10-21
+- 🚀 **Pushed** to [rajatjc/loonie-ledger](https://github.com/rajatjc/loonie-ledger) — 2026-10-20
+- 🚀 **Pushed** to [rajatjc/loonie-ledger](https://github.com/rajatjc/loonie-ledger) — 2026-10-21
+- 🚀 **Pushed** to [rajatjc/GraphColoring](https://github.com/rajatjc/GraphColoring) — 2026-10-22
 
 ---
-*Last updated: 2026-10-22 20:57 UTC*
+*Last updated: 2026-10-23 02:23 UTC*
 <!--END:recent-->
 
 </details>
