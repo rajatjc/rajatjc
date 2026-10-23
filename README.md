@@ -244,20 +244,20 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
+- **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
+  - Last updated: 2026-10-23
 - **[kaleido-tv](https://github.com/rajatjc/kaleido-tv)** — Free live TV, beautifully organised: legitimate free channel...
   - Last updated: 2026-10-23
 - **[DreamShops](https://github.com/rajatjc/DreamShops)** — None
   - Last updated: 2026-10-22
-- **[loonie-ledger](https://github.com/rajatjc/loonie-ledger)** — A demo Canadian neobank: Java, Python and Node.js services c...
-  - Last updated: 2026-10-22
 
 ### 🔥 Recent Activity
-- 🚀 **Pushed** to [rajatjc/loonie-ledger](https://github.com/rajatjc/loonie-ledger) — 2026-10-20
-- 🚀 **Pushed** to [rajatjc/loonie-ledger](https://github.com/rajatjc/loonie-ledger) — 2026-10-21
-- 🚀 **Pushed** to [rajatjc/GraphColoring](https://github.com/rajatjc/GraphColoring) — 2026-10-22
+- 🚀 **Pushed** to [rajatjc/DreamShops](https://github.com/rajatjc/DreamShops) — 2026-10-22
+- ✨ **Created** [rajatjc/kaleido-tv](https://github.com/rajatjc/kaleido-tv) — 2026-10-23
+- 🚀 **Pushed** to [rajatjc/loonie-ledger](https://github.com/rajatjc/loonie-ledger) — 2026-10-22
 
 ---
-*Last updated: 2026-10-23 02:23 UTC*
+*Last updated: 2026-10-23 10:39 UTC*
 <!--END:recent-->
 
 </details>
