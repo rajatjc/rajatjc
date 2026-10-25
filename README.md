@@ -244,11 +244,11 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
-- **[GraphColoring](https://github.com/rajatjc/GraphColoring)** — GraphColoring website with CBIP and FirstFit algorithm
+- **[DreamShops](https://github.com/rajatjc/DreamShops)** — None
   - Last updated: 2026-10-24
-- **[CareerLinkup](https://github.com/rajatjc/CareerLinkup)** — CareerLinkup: Connecting job seekers and employers for strea...
+- **[loonie-ledger](https://github.com/rajatjc/loonie-ledger)** — A demo Canadian neobank: Java, Python and Node.js services c...
   - Last updated: 2026-10-24
-- **[kaleido-tv](https://github.com/rajatjc/kaleido-tv)** — Free live TV, beautifully organised: legitimate free channel...
+- **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
   - Last updated: 2026-10-24
 
 ### 🔥 Recent Activity
@@ -257,7 +257,7 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 - 🚀 **Pushed** to [rajatjc/GraphColoring](https://github.com/rajatjc/GraphColoring) — 2026-10-23
 
 ---
-*Last updated: 2026-10-24 19:56 UTC*
+*Last updated: 2026-10-25 02:08 UTC*
 <!--END:recent-->
 
 </details>
