@@ -244,20 +244,20 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
-- **[CareerLinkup](https://github.com/rajatjc/CareerLinkup)** — CareerLinkup: Connecting job seekers and employers for strea...
+- **[kaleido-tv](https://github.com/rajatjc/kaleido-tv)** — Free live TV, beautifully organised: legitimate free channel...
+  - Last updated: 2026-10-26
+- **[GraphColoring](https://github.com/rajatjc/GraphColoring)** — GraphColoring website with CBIP and FirstFit algorithm
   - Last updated: 2026-10-25
 - **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
   - Last updated: 2026-10-25
-- **[DreamShops](https://github.com/rajatjc/DreamShops)** — None
-  - Last updated: 2026-10-24
 
 ### 🔥 Recent Activity
-- 🚀 **Pushed** to [rajatjc/GraphColoring](https://github.com/rajatjc/GraphColoring) — 2026-10-24
-- 🚀 **Pushed** to [rajatjc/kaleido-tv](https://github.com/rajatjc/kaleido-tv) — 2026-10-24
-- 🚀 **Pushed** to [rajatjc/loonie-ledger](https://github.com/rajatjc/loonie-ledger) — 2026-10-24
+- 🚀 **Pushed** to [rajatjc/kaleido-tv](https://github.com/rajatjc/kaleido-tv) — 2026-10-26
+- 🚀 **Pushed** to [rajatjc/DreamShops](https://github.com/rajatjc/DreamShops) — 2026-10-24
+- 🚀 **Pushed** to [rajatjc/GraphColoring](https://github.com/rajatjc/GraphColoring) — 2026-10-25
 
 ---
-*Last updated: 2026-10-25 20:06 UTC*
+*Last updated: 2026-10-26 02:09 UTC*
 <!--END:recent-->
 
 </details>
