@@ -244,20 +244,17 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
-- **[GraphColoring](https://github.com/rajatjc/GraphColoring)** — GraphColoring website with CBIP and FirstFit algorithm
-  - Last updated: 2026-10-28
-- **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
-  - Last updated: 2026-10-28
-- **[CareerLinkup](https://github.com/rajatjc/CareerLinkup)** — CareerLinkup: Connecting job seekers and employers for strea...
-  - Last updated: 2026-10-28
+- **[lsm-kv](https://github.com/rajatjc/lsm-kv)** — LSM-tree key-value store in Java: WAL, SSTables, Bloom filte...
+  - Last updated: 2026-10-29
+- **[licensestamp](https://github.com/rajatjc/licensestamp)** — Add and update SPDX license headers in source files, dated f...
+  - Last updated: 2026-10-29
+- **[loonie-ledger](https://github.com/rajatjc/loonie-ledger)** — A demo Canadian neobank: Java, Python and Node.js services c...
+  - Last updated: 2026-10-29
 
 ### 🔥 Recent Activity
-- 🚀 **Pushed** to [rajatjc/DreamShops](https://github.com/rajatjc/DreamShops) — 2026-10-28
-- 🚀 **Pushed** to [rajatjc/GraphColoring](https://github.com/rajatjc/GraphColoring) — 2026-10-27
-- 🚀 **Pushed** to [rajatjc/CareerLinkup](https://github.com/rajatjc/CareerLinkup) — 2026-10-27
 
 ---
-*Last updated: 2026-10-28 21:58 UTC*
+*Last updated: 2026-10-29 03:19 UTC*
 <!--END:recent-->
 
 </details>
