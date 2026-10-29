@@ -244,17 +244,18 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
+- **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
+  - Last updated: 2026-10-29
 - **[lsm-kv](https://github.com/rajatjc/lsm-kv)** — LSM-tree key-value store in Java: WAL, SSTables, Bloom filte...
   - Last updated: 2026-10-29
 - **[licensestamp](https://github.com/rajatjc/licensestamp)** — Add and update SPDX license headers in source files, dated f...
   - Last updated: 2026-10-29
-- **[loonie-ledger](https://github.com/rajatjc/loonie-ledger)** — A demo Canadian neobank: Java, Python and Node.js services c...
-  - Last updated: 2026-10-29
 
 ### 🔥 Recent Activity
+- 🚀 **Pushed** to [rajatjc/CareerLinkup](https://github.com/rajatjc/CareerLinkup) — 2026-10-28
 
 ---
-*Last updated: 2026-10-29 03:19 UTC*
+*Last updated: 2026-10-29 11:54 UTC*
 <!--END:recent-->
 
 </details>
