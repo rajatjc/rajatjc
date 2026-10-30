@@ -252,11 +252,11 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
   - Last updated: 2026-10-29
 
 ### 🔥 Recent Activity
+- 🚀 **Pushed** to [rajatjc/DreamShops](https://github.com/rajatjc/DreamShops) — 2026-10-28
 - 🚀 **Pushed** to [rajatjc/lsm-kv](https://github.com/rajatjc/lsm-kv) — 2026-10-29
-- 🚀 **Pushed** to [rajatjc/loonie-ledger](https://github.com/rajatjc/loonie-ledger) — 2026-10-29
 
 ---
-*Last updated: 2026-10-30 17:23 UTC*
+*Last updated: 2026-10-30 21:45 UTC*
 <!--END:recent-->
 
 </details>
