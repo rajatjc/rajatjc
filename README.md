@@ -245,19 +245,19 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 <!--START:recent-->
 ### 📁 Recent Repositories
 - **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
-  - Last updated: 2026-11-02
+  - Last updated: 2026-11-03
 - **[kaleido-tv](https://github.com/rajatjc/kaleido-tv)** — Free live TV, beautifully organised: legitimate free channel...
   - Last updated: 2026-10-30
 - **[lsm-kv](https://github.com/rajatjc/lsm-kv)** — LSM-tree key-value store in Java: WAL, SSTables, Bloom filte...
   - Last updated: 2026-10-29
 
 ### 🔥 Recent Activity
+- 👀 **Starred** [github/spec-kit](https://github.com/github/spec-kit) — 2026-11-03
+- 👀 **Starred** [affaan-m/ECC](https://github.com/affaan-m/ECC) — 2026-11-03
 - 🚀 **Pushed** to [rajatjc/kaleido-tv](https://github.com/rajatjc/kaleido-tv) — 2026-10-30
-- 🚀 **Pushed** to [rajatjc/kaleido-tv](https://github.com/rajatjc/kaleido-tv) — 2026-10-30
-- ✨ **Created** [rajatjc/licensestamp](https://github.com/rajatjc/licensestamp) — 2026-10-29
 
 ---
-*Last updated: 2026-11-03 00:08 UTC*
+*Last updated: 2026-11-03 13:10 UTC*
 <!--END:recent-->
 
 </details>
