@@ -244,19 +244,19 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
-- **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
-  - Last updated: 2026-11-03
-- **[kaleido-tv](https://github.com/rajatjc/kaleido-tv)** — Free live TV, beautifully organised: legitimate free channel...
-  - Last updated: 2026-10-30
-- **[lsm-kv](https://github.com/rajatjc/lsm-kv)** — LSM-tree key-value store in Java: WAL, SSTables, Bloom filte...
-  - Last updated: 2026-10-29
+- **[CareerLinkup](https://github.com/rajatjc/CareerLinkup)** — CareerLinkup: Connecting job seekers and employers for strea...
+  - Last updated: 2026-11-04
+- **[loonie-ledger](https://github.com/rajatjc/loonie-ledger)** — A demo Canadian neobank: Java, Python and Node.js services c...
+  - Last updated: 2026-11-04
+- **[DreamShops](https://github.com/rajatjc/DreamShops)** — None
+  - Last updated: 2026-11-04
 
 ### 🔥 Recent Activity
-- 👀 **Starred** [github/spec-kit](https://github.com/github/spec-kit) — 2026-11-03
-- 👀 **Starred** [affaan-m/ECC](https://github.com/affaan-m/ECC) — 2026-11-03
+- 🚀 **Pushed** to [rajatjc/CareerLinkup](https://github.com/rajatjc/CareerLinkup) — 2026-11-04
+- 🚀 **Pushed** to [rajatjc/loonie-ledger](https://github.com/rajatjc/loonie-ledger) — 2026-11-04
 
 ---
-*Last updated: 2026-11-04 03:45 UTC*
+*Last updated: 2026-11-04 13:25 UTC*
 <!--END:recent-->
 
 </details>
