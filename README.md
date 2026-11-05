@@ -244,20 +244,18 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
-- **[rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io)** — My Portfolio Website
+- **[loonie-ledger](https://github.com/rajatjc/loonie-ledger)** — A demo Canadian neobank: Java, Python and Node.js services c...
   - Last updated: 2026-11-05
-- **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
-  - Last updated: 2026-11-04
-- **[CareerLinkup](https://github.com/rajatjc/CareerLinkup)** — CareerLinkup: Connecting job seekers and employers for strea...
-  - Last updated: 2026-11-04
+- **[lsm-kv](https://github.com/rajatjc/lsm-kv)** — LSM-tree key-value store in Java: WAL, SSTables, Bloom filte...
+  - Last updated: 2026-11-05
+- **[ladder-mate](https://github.com/rajatjc/ladder-mate)** — A chess training game that climbs from the rules to 2000, wi...
+  - Last updated: 2026-11-05
 
 ### 🔥 Recent Activity
-- 👀 **Starred** [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — 2026-11-05
-- 👀 **Starred** [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) — 2026-11-04
-- 🚀 **Pushed** to [rajatjc/loonie-ledger](https://github.com/rajatjc/loonie-ledger) — 2026-11-04
+- 🚀 **Pushed** to [rajatjc/ladder-mate](https://github.com/rajatjc/ladder-mate) — 2026-11-05
 
 ---
-*Last updated: 2026-11-05 04:03 UTC*
+*Last updated: 2026-11-05 13:40 UTC*
 <!--END:recent-->
 
 </details>
