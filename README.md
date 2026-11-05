@@ -244,19 +244,20 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
+- **[rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io)** — My Portfolio Website
+  - Last updated: 2026-11-05
 - **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
   - Last updated: 2026-11-04
 - **[CareerLinkup](https://github.com/rajatjc/CareerLinkup)** — CareerLinkup: Connecting job seekers and employers for strea...
   - Last updated: 2026-11-04
-- **[loonie-ledger](https://github.com/rajatjc/loonie-ledger)** — A demo Canadian neobank: Java, Python and Node.js services c...
-  - Last updated: 2026-11-04
 
 ### 🔥 Recent Activity
-- 🚀 **Pushed** to [rajatjc/loonie-ledger](https://github.com/rajatjc/loonie-ledger) — 2026-11-04
+- 👀 **Starred** [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — 2026-11-05
+- 👀 **Starred** [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) — 2026-11-04
 - 🚀 **Pushed** to [rajatjc/loonie-ledger](https://github.com/rajatjc/loonie-ledger) — 2026-11-04
 
 ---
-*Last updated: 2026-11-04 22:58 UTC*
+*Last updated: 2026-11-05 04:03 UTC*
 <!--END:recent-->
 
 </details>
