@@ -244,18 +244,20 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
-- **[GraphColoring](https://github.com/rajatjc/GraphColoring)** — GraphColoring website with CBIP and FirstFit algorithm
+- **[loonie-ledger](https://github.com/rajatjc/loonie-ledger)** — A demo Canadian neobank: Java, Python and Node.js services c...
   - Last updated: 2026-11-05
 - **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
   - Last updated: 2026-11-05
-- **[loonie-ledger](https://github.com/rajatjc/loonie-ledger)** — A demo Canadian neobank: Java, Python and Node.js services c...
+- **[GraphColoring](https://github.com/rajatjc/GraphColoring)** — GraphColoring website with CBIP and FirstFit algorithm
   - Last updated: 2026-11-05
 
 ### 🔥 Recent Activity
+- 🚀 **Pushed** to [rajatjc/loonie-ledger](https://github.com/rajatjc/loonie-ledger) — 2026-11-05
+- 🚀 **Pushed** to [rajatjc/rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io) — 2026-11-05
 - 🚀 **Pushed** to [rajatjc/ladder-mate](https://github.com/rajatjc/ladder-mate) — 2026-11-05
 
 ---
-*Last updated: 2026-11-05 22:59 UTC*
+*Last updated: 2026-11-06 04:00 UTC*
 <!--END:recent-->
 
 </details>
