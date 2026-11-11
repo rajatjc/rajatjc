@@ -244,11 +244,11 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
+- **[rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io)** — My Portfolio Website
+  - Last updated: 2026-11-11
 - **[utter](https://github.com/rajatjc/utter)** — Voice dictation and commands for macOS, living in the notch....
   - Last updated: 2026-11-11
 - **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
-  - Last updated: 2026-11-11
-- **[rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io)** — My Portfolio Website
   - Last updated: 2026-11-11
 
 ### 🔥 Recent Activity
@@ -257,7 +257,7 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 - 🚀 **Pushed** to [rajatjc/loonie-ledger](https://github.com/rajatjc/loonie-ledger) — 2026-11-05
 
 ---
-*Last updated: 2026-11-11 13:07 UTC*
+*Last updated: 2026-11-11 23:47 UTC*
 <!--END:recent-->
 
 </details>
