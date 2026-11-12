@@ -244,20 +244,19 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
+- **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
+  - Last updated: 2026-11-12
 - **[utter](https://github.com/rajatjc/utter)** — Free, open-source voice dictation for macOS that lives in th...
   - Last updated: 2026-11-12
 - **[rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io)** — My Portfolio Website
   - Last updated: 2026-11-12
-- **[CareerLinkup](https://github.com/rajatjc/CareerLinkup)** — CareerLinkup: Connecting job seekers and employers for strea...
-  - Last updated: 2026-11-12
 
 ### 🔥 Recent Activity
-- 🚀 **Pushed** to [rajatjc/utter](https://github.com/rajatjc/utter) — 2026-11-11
-- 🚀 **Pushed** to [rajatjc/utter](https://github.com/rajatjc/utter) — 2026-11-11
-- 🚀 **Pushed** to [rajatjc/utter](https://github.com/rajatjc/utter) — 2026-11-11
+- 🚀 **Pushed** to [rajatjc/utter](https://github.com/rajatjc/utter) — 2026-11-12
+- 🚀 **Pushed** to [rajatjc/utter](https://github.com/rajatjc/utter) — 2026-11-12
 
 ---
-*Last updated: 2026-11-12 14:10 UTC*
+*Last updated: 2026-11-12 22:56 UTC*
 <!--END:recent-->
 
 </details>
