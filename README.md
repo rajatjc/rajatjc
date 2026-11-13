@@ -252,12 +252,12 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
   - Last updated: 2026-11-12
 
 ### 🔥 Recent Activity
-- 🚀 **Pushed** to [rajatjc/utter](https://github.com/rajatjc/utter) — 2026-11-11
 - 🚀 **Pushed** to [rajatjc/rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io) — 2026-11-12
-- 🚀 **Pushed** to [rajatjc/rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io) — 2026-11-11
+- 🚀 **Pushed** to [rajatjc/utter](https://github.com/rajatjc/utter) — 2026-11-12
+- 🚀 **Pushed** to [rajatjc/utter](https://github.com/rajatjc/utter) — 2026-11-11
 
 ---
-*Last updated: 2026-11-13 13:34 UTC*
+*Last updated: 2026-11-13 22:58 UTC*
 <!--END:recent-->
 
 </details>
