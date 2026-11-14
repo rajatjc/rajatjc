@@ -244,11 +244,11 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 
 <!--START:recent-->
 ### 📁 Recent Repositories
+- **[spark](https://github.com/rajatjc/spark)** — Trust-first dating platform MVP: curated daily matches, prom...
+  - Last updated: 2026-11-14
 - **[rajatjc](https://github.com/rajatjc/rajatjc)** — None
   - Last updated: 2026-11-12
 - **[utter](https://github.com/rajatjc/utter)** — Free, open-source voice dictation for macOS that lives in th...
-  - Last updated: 2026-11-12
-- **[rajatjc.github.io](https://github.com/rajatjc/rajatjc.github.io)** — My Portfolio Website
   - Last updated: 2026-11-12
 
 ### 🔥 Recent Activity
@@ -257,7 +257,7 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 - 🚀 **Pushed** to [rajatjc/utter](https://github.com/rajatjc/utter) — 2026-11-12
 
 ---
-*Last updated: 2026-11-14 12:39 UTC*
+*Last updated: 2026-11-14 21:46 UTC*
 <!--END:recent-->
 
 </details>
