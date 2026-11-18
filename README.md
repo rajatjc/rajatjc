@@ -252,12 +252,12 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
   - Last updated: 2026-11-12
 
 ### 🔥 Recent Activity
+- 👀 **Starred** [Druthulu/ProjectArchitect](https://github.com/Druthulu/ProjectArchitect) — 2026-11-18
 - 👀 **Starred** [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) — 2026-11-16
 - 👀 **Starred** [JustVugg/colibri](https://github.com/JustVugg/colibri) — 2026-11-16
-- ✨ **Created** [rajatjc/spark](https://github.com/rajatjc/spark) — 2026-11-14
 
 ---
-*Last updated: 2026-11-18 00:08 UTC*
+*Last updated: 2026-11-18 14:44 UTC*
 <!--END:recent-->
 
 </details>
