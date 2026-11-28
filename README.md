@@ -257,7 +257,7 @@ Java and Spring Boot microservices for ESG reporting, on Kafka, Cassandra and Ku
 - 👀 **Starred** [JustVugg/colibri](https://github.com/JustVugg/colibri) — 2026-11-16
 
 ---
-*Last updated: 2026-11-27 15:45 UTC*
+*Last updated: 2026-11-28 00:47 UTC*
 <!--END:recent-->
 
 </details>
